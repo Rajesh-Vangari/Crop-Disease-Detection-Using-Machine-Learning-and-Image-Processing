@@ -1,8 +1,7 @@
 # Crop-Disease-Detection-Using-Machine-Learning-and-Image-Processing
 
 
-
-https://www.mdpi.com/horticulturae/horticulturae-09-00149/article_deploy/html/images/horticulturae-09-00149-g001.png
+![image](https://github.com/user-attachments/assets/c275ff71-8b7a-49c0-8a35-88817319661a)
 
 
 This project focuses on using machine learning and image processing techniques to detect and classify diseases in crops. By analyzing high-resolution images of crops, the system can accurately identify various diseases affecting the plants. The process includes several key steps: preprocessing the images to improve quality and extract features, training machine learning models like Convolutional Neural Networks (CNN) for classification, and evaluating model performance to ensure accuracy. The goal is to offer an automated solution that assists farmers in early disease detection, ultimately improving crop health and reducing losses.
